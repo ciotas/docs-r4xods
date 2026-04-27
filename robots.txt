@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-x97uen.citysinglescommunity.com/sitemap.xml
